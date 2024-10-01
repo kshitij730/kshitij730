@@ -3,7 +3,7 @@
 <h3 align="center">A passionate AI developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij730&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij730" /> </p>
-
+[![An image of @kshitij730's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitij730)](https://holopin.io/@kshitij730)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitij730" alt="kshitij730" /></a> </p>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/the-ai-almanac-7219447948672217088/](https://www.linkedin.com/newsletters/the-ai-almanac-7219447948672217088/)
