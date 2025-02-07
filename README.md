@@ -24,7 +24,7 @@
 <a href="https://medium.com/@kshitij230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kshitij230" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/uefmqaojkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uefmqaojkt" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/skshitjcp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="skshitjcp4" height="30" width="40" />
-<a href="https://www.naukri.com/code360/profile/34478a28-0360-4a72-a36b-3edc4eadbddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code360.svg" alt="34478a28-0360-4a72-a36b-3edc4eadbddd" height="30" width="40" />
+<a href="https://www.naukri.com/code360/profile/34478a28-0360-4a72-a36b-3edc4eadbddd" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Coding_Ninjas_Logo.jpg" alt="34478a28-0360-4a72-a36b-3edc4eadbddd" height="30" width="40" />
 </a>
 </p>
 
