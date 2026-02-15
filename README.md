@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kshitijsharma730@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/10wZtw-bNjy0du_hSSd-PPN-6kjhVr7co/view?usp=drive_link](https://drive.google.com/file/d/10wZtw-bNjy0du_hSSd-PPN-6kjhVr7co/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/1vL1UgEQm3sBPcCOZ-QU55H5dWqjoc-kV/view?usp=drive_link](https://drive.google.com/file/d/1vL1UgEQm3sBPcCOZ-QU55H5dWqjoc-kV/view?usp=drive_link)
 
 - ⚡ Fun fact **I am a geek**
 
