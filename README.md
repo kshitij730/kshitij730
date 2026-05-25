@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0080FF&height=210&section=header&text=Kshitij%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer&descAlignY=56&descAlign=50&descSize=22" />
+```
+██╗  ██╗███████╗██╗  ██╗██╗████████╗██╗     ██╗
+██║ ██╔╝██╔════╝██║  ██║██║╚══██╔══╝██║     ██║
+█████╔╝ ███████╗███████║██║   ██║   ██║     ██║
+██╔═██╗ ╚════██║██╔══██║██║   ██║   ██║██   ██║
+██║  ██╗███████║██║  ██║██║   ██║   ██║╚█████╔╝
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝ ╚════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+AI+Engineer+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+NLP+%7C+Deep+Learning;Next.js+%7C+TypeScript+%7C+Python+%7C+FastAPI;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+Real-World+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kshitij+Sharma+👋;Full+Stack+AI+Engineer+🇮🇳;Building+Production-Level+AI+Systems+🚀;LLMs+%7C+RAG+%7C+NLP+%7C+Deep+Learning+🧠" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-sharma-54011a227)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/webdeveloper1111)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kshitij230)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijsharma730@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=kshitij730&label=Profile+Views&color=00F7FF&style=flat" alt="Profile Views" />
+[![Profile Views](https://komarev.com/ghpvc/?username=kshitij730&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/kshitij730)
+[![GitHub Followers](https://img.shields.io/github/followers/kshitij730?style=for-the-badge&color=a371f7&label=Followers)](https://github.com/kshitij730)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kshitij-sharma-54011a227)
 
 </div>
 
@@ -28,238 +32,105 @@ class KshitijSharma:
         self.email       = "kshitijsharma730@gmail.com"
 
         self.building    = ["End-to-End AI Products", "LLM Pipelines", "RAG Systems"]
-        self.learning    = ["MLOps", "Advanced NLP", "Distributed Systems on AWS"]
-
-        self.stack = {
-            "ai_ml"    : ["LLMs", "RAG", "NLP", "Deep Learning", "Computer Vision",
-                          "Transformers", "LoRA Fine-tuning", "Vector DBs"],
-            "frontend" : ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-            "backend"  : ["Python", "FastAPI", "Node.js", "REST APIs", "WebSockets"],
-            "cloud"    : ["AWS EC2", "S3", "Lambda", "SageMaker", "ECR", "IAM"],
-            "devops"   : ["Docker", "Kubernetes", "Linux", "GitHub Actions", "CI/CD"],
-            "databases": ["PostgreSQL", "MongoDB", "Pinecone", "ChromaDB", "Redis"],
+        self.learning    = ["MLOps", "Advanced NLP", "Distributed Systems"]
+        self.stack       = {
+            "ai_ml"     : ["LLMs", "RAG", "NLP", "Deep Learning", "Scikit-learn"],
+            "frontend"  : ["Next.js", "React", "TypeScript", "HTML", "CSS"],
+            "backend"   : ["Python", "Node.js", "FastAPI", "REST APIs"],
+            "devops"    : ["Docker", "Kubernetes", "AWS", "Linux", "Git", "CI/CD"],
+            "databases" : ["PostgreSQL", "MongoDB", "Pinecone", "Redis"],
         }
 
     def motto(self):
         return "I build production-level AI systems, not just notebooks. 🚀"
+
+me = KshitijSharma()
+print(me.motto())
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Tech Stack
 
-### 🧠 AI / ML / DL
+### 🤖 AI / ML / LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 Full Stack
+### ⚙️ Backend & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### ☁️ Cloud — AWS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### 🐧 DevOps / MLOps / Linux
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Vector Stores
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white"/>
-</p>
-
----
-
-## 🤖 AI/ML Expertise — Deep Dive
-
-<details>
-<summary><b>🧬 Large Language Models (LLMs)</b></summary>
-
-| Area | Tools & Techniques |
-|------|-------------------|
-| **Foundation Models** | GPT-4, Claude, Gemini, LLaMA 3, Mistral, Phi-3 |
-| **Fine-tuning** | LoRA, QLoRA, PEFT, SFT (Supervised Fine-Tuning) |
-| **Prompt Engineering** | CoT, Few-shot, ReAct, System prompting |
-| **Orchestration** | LangChain, LlamaIndex, AutoGen, CrewAI |
-| **Local LLMs** | Ollama, llama.cpp, vLLM |
-| **Evaluation** | RAGAS, TruLens, LangSmith |
-
-</details>
-
-<details>
-<summary><b>🔍 RAG (Retrieval-Augmented Generation)</b></summary>
-
-| Area | Tools & Techniques |
-|------|-------------------|
-| **Embeddings** | OpenAI Ada, BGE, Sentence-BERT, E5 |
-| **Vector DBs** | Pinecone, ChromaDB, FAISS, Weaviate |
-| **Chunking** | Semantic, Recursive, Sentence-window |
-| **Retrieval** | BM25, Hybrid Search, Reranking (Cohere) |
-| **Advanced RAG** | HyDE, RAPTOR, Self-RAG, Multi-query |
-| **Frameworks** | LlamaIndex, LangChain RAG chains |
-
-</details>
-
-<details>
-<summary><b>📝 NLP (Natural Language Processing)</b></summary>
-
-| Area | Tools & Techniques |
-|------|-------------------|
-| **Classical NLP** | Tokenization, POS, NER, Dependency Parsing |
-| **Text Classification** | BERT, RoBERTa, DistilBERT |
-| **Sequence-to-Seq** | T5, BART, mBART |
-| **Sentiment Analysis** | VADER, TextBlob, Transformer-based |
-| **Libraries** | HuggingFace Transformers, spaCy, NLTK, Gensim |
-| **Embeddings** | Word2Vec, GloVe, FastText, Sentence Transformers |
-
-</details>
-
-<details>
-<summary><b>🧮 Machine Learning Algorithms</b></summary>
-
-| Category | Algorithms |
-|----------|-----------|
-| **Supervised** | Linear/Logistic Regression, SVM, Decision Tree, Random Forest, XGBoost, LightGBM, CatBoost |
-| **Unsupervised** | K-Means, DBSCAN, PCA, t-SNE, UMAP, Gaussian Mixture |
-| **Ensemble** | Bagging, Boosting, Stacking, Voting Classifiers |
-| **Optimization** | Grid Search, Optuna, Hyperopt, Bayesian Optimization |
-| **Evaluation** | Cross-validation, Confusion Matrix, ROC-AUC, BLEU, F1 |
-
-</details>
-
-<details>
-<summary><b>🧠 Deep Learning Architectures</b></summary>
-
-| Architecture | Use Cases |
-|-------------|----------|
-| **CNN** | Image classification, Object detection (YOLO, ResNet, EfficientNet) |
-| **RNN / LSTM / GRU** | Time series, Sequence modeling |
-| **Transformer** | BERT, GPT, T5, ViT — NLP + Vision |
-| **Diffusion Models** | Stable Diffusion, DALL-E concepts |
-| **GAN** | Image generation, Data augmentation |
-| **Autoencoders** | Anomaly detection, Dimensionality reduction |
-| **Graph Neural Networks** | Knowledge graphs, Recommendation systems |
-
-</details>
-
-<details>
-<summary><b>☁️ MLOps & AWS Deployment</b></summary>
-
-| Area | Tools & Techniques |
-|------|-------------------|
-| **Experiment Tracking** | MLflow, Weights & Biases |
-| **Model Serving** | FastAPI + Docker, AWS SageMaker Endpoints |
-| **Containerization** | Docker, Docker Compose, ECR |
-| **Orchestration** | Kubernetes, AWS ECS |
-| **CI/CD for ML** | GitHub Actions, CodePipeline |
-| **Monitoring** | CloudWatch, Grafana, Evidently AI |
-| **Data Pipelines** | AWS S3 + Lambda + Glue |
-
-</details>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitij730&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij730&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kshitij730&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitij730&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij730&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kshitij730&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kshitij730&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitij730&theme=react-dark&hide_border=true&area=true&custom_title=Kshitij's%20Contribution%20Graph" />
-</p>
+<div align="center">
+
+[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitij730&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kshitij730&theme=tokyonight&no-frame=true&column=7&margin-w=6" />
-</p>
-
----
-
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kshitij730/kshitij730/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
-  <img src="https://raw.githubusercontent.com/kshitij730/kshitij730/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
-</p>
-
-<details>
-<summary>⚙️ <b>Snake setup — one time only (click to expand)</b></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
+> **Setup required:** Add this GitHub Actions workflow to generate the snake animation automatically.
+>
+> Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
-name: Generate Snake Animation
+name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-permissions:
-  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -267,9 +138,7 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kshitij730
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
@@ -277,37 +146,50 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
-Then go to **Actions tab → Run workflow manually** once to generate it.
-
-</details>
+>
+> After the workflow runs once, replace the block above with this line in your README:
+> ```
+> ![Snake animation](https://raw.githubusercontent.com/kshitij730/kshitij730/output/github-contribution-grid-snake.svg)
+> ```
 
 ---
 
-## 💡 What I Build
+## 📝 Latest from The AI Almanac
 
-| Domain | Stack & Skills |
-|--------|---------------|
-| 🤖 **LLM Applications** | RAG, Fine-tuning (LoRA/QLoRA), LangChain, LlamaIndex, Agents |
-| 🌐 **Full Stack AI Apps** | Next.js + FastAPI + ML model + PostgreSQL/Vector DB |
-| ☁️ **AWS Cloud Deployment** | EC2, S3, Lambda, SageMaker, ECR, CloudWatch, IAM |
-| 🐧 **Linux & Automation** | Shell scripting, cron jobs, server config, process management |
-| 📊 **NLP Pipelines** | Text classification, NER, Embeddings, Transformers, Semantic search |
-| 🔁 **MLOps Pipelines** | Docker → CI/CD → K8s → MLflow tracking → Monitoring |
-| 👁️ **Computer Vision** | Object detection (YOLO), Image classification (CNN/ResNet) |
+> 🗞️ I regularly write about AI trends, research breakthroughs, and practical tutorials.
+>
+> 👉 **[Read The AI Almanac on LinkedIn](https://www.linkedin.com/newsletters/the-ai-almanac-7219447948672217088/)**
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [kshitij-sharma-54011a227](https://linkedin.com/in/kshitij-sharma-54011a227) |
+| 📊 Kaggle | [webdeveloper1111](https://kaggle.com/webdeveloper1111) |
+| 📸 Instagram | [@skshitij730](https://instagram.com/skshitij730) |
+| ✍️ Medium | [@kshitij230](https://medium.com/@kshitij230) |
+| 🧩 LeetCode | [uefmqaojkt](https://www.leetcode.com/uefmqaojkt) |
+| 🟢 GeeksforGeeks | [skshitjcp4](https://auth.geeksforgeeks.org/user/skshitjcp4) |
+| 💻 Coding Ninjas | [Profile](https://www.naukri.com/code360/profile/34478a28-0360-4a72-a36b-3edc4eadbddd) |
+| 📄 Resume | [View Here](https://drive.google.com/file/d/1vL1UgEQm3sBPcCOZ-QU55H5dWqjoc-kV/view?usp=drive_link) |
+| 📬 Email | [kshitijsharma730@gmail.com](mailto:kshitijsharma730@gmail.com) |
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚨 Final Note
+**💬 Ask me about Gen AI · NLP · Deep Learning · MLOps · RAG Systems**
 
-> **"I build production-level AI systems, not just notebooks."**
->
-> Every project → **Frontend** → **Backend** → **ML Model** → **AWS Cloud** → **Production**
+*"I build production-level AI systems, not just notebooks. 🚀"*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00F7FF&height=130&section=footer" />
+![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
