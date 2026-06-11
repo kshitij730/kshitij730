@@ -142,42 +142,11 @@ print(me.motto())
 
 | 🔥 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
 |---|---|---|---|
-| **AI RAG System** | Production-grade Retrieval Augmented Generation pipeline with multi-vector search | LangChain, Pinecone, FastAPI, Next.js | [GitHub](#) |
-| **LLM Chatbot Platform** | Multi-tenant chatbot platform with fine-tuned models & analytics dashboard | OpenAI, LlamaIndex, Redis, Docker | [GitHub](#) |
-| **NLP Pipeline** | End-to-end NLP pipeline for classification, NER, summarization at scale | HuggingFace, Airflow, PostgreSQL | [GitHub](#) |
-| **MLOps Dashboard** | Real-time model monitoring with drift detection & auto-retraining triggers | MLflow, Prometheus, Grafana, K8s | [GitHub](#) |
-| **Computer Vision App** | Object detection & segmentation deployed on AWS with real-time inference | PyTorch, OpenCV, FastAPI, AWS Lambda | [GitHub](#) |
-
-> 💡 *Replace `[GitHub](#)` links with your actual repo URLs!*
+| **ContractIQ** | ContractIQ is an AI-powered contract review platform built for freelancers, founders, agencies, and small businesses who need fast legal risk visibility before signing an agreement | Next.js 16 · FastAPI · Python 3.10 · TypeScript · Llama-3.3-70B (Groq) · Sentence-Transformers (MiniLM-L6-v2) · docTR · OCR (DBNet + CRNN) · PyTorch · Uvicorn (ASGI) | [GitHub](https://github.com/kshitij730/ContractIQ) |
+| **ClaimShield** | ClaimShield is a multimodal forensic fraud investigation platform for insurance claims. It turns accident-scene images, vehicle damage photos, repair invoices, claim narratives, metadata, historical patterns, and security controls into a single investigation command center. | Next.js 15 · FastAPI · Python 3.10 · TypeScript · YOLOv8 · docTR OCR · Llama-3.3-70B (Groq) · FAISS · Sentence-Transformers · Scikit-Learn · Docker | [GitHub](https://github.com/kshitij730/ClaimShield) |
+| **FlowMind AI** | FlowMind AI converts reactive CI/CD debugging into proactive pipeline intelligence. When a pipeline fails, AI agents automatically detect the root cause, generate a patch, open a GitHub Pull Request, and notify the team — all without human intervention. | React 18 · TypeScript · Vite · React Router DOM · Axios · Recharts · Tailwind CSS · Lucide React · FastAPI · Uvicorn · Python 3.11+ · SQLite · SQLAlchemy · Pydantic · HTTPx · Azure OpenAI (o4-mini) · Microsoft AutoGen 0.2 · Semantic Kernel 1.28 · AzureTextEmbedding · Azure Monitor · GitHub REST API · Slack Webhooks · Power Automate · azure-identity · Docker · Docker Compose · Vercel · Render | [GitHub](https://github.com/kshitij730/flowmind-ai) |
 
 ---
-
-## 📚 Currently Learning / Roadmap
-
-```
-2025 Learning Roadmap 🗺️
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- ✅ LLM Fine-tuning (LoRA / QLoRA)
- ✅ Advanced RAG (HyDE, RAPTOR, Self-RAG)
- ✅ Agentic Systems (CrewAI, AutoGen, LangGraph)
- 🔄 Distributed Training (DeepSpeed, FSDP)
- 🔄 MLOps at Scale (Kubeflow, Vertex AI)
- 🔄 Multimodal LLMs (Vision-Language Models)
- 📅 Reinforcement Learning from Human Feedback (RLHF)
- 📅 Advanced Kubernetes & Service Mesh (Istio)
- 📅 Real-time ML Systems (Kafka + Feature Stores)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ Done  |  🔄 In Progress  |  📅 Planned
-```
-
----
-
-## 🤝 Open Source Contributions
-
-<div align="center">
-
-![Open Source](https://img.shields.io/badge/Open_Source-❤️_Contributor-FF6B6B?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)
 
 </div>
 
@@ -194,14 +163,15 @@ print(me.motto())
 
 <div align="center">
 
+## 🏆 Awards, Achievements & Certifications
+
 | 🎖️ Certification / Achievement | 🏛️ Issuer | 📅 Year |
 |---|---|---|
-| **Deep Learning Specialization** | Coursera / DeepLearning.AI | 2024 |
-| **AWS Cloud Practitioner** | Amazon Web Services | 2024 |
-| **LLMOps: Building Real-World Applications** | DeepLearning.AI | 2024 |
-| **NLP Specialization** | Coursera / DeepLearning.AI | 2023 |
-| **Kaggle Competition — Top X%** | Kaggle | 2024 |
-| **LeetCode — XXX+ Problems Solved** | LeetCode | Ongoing |
+| **GATE CS 2026 (Qualified)** — Computer Science & Information Technology | GATE | 2026 |
+| **Python For DevOps [AI Edition]** (ID: TWS761) | TrainWithShubham | Apr 2026 |
+| **Letter of Appreciation** — Outstanding Research Contribution | UCER | May 2025 |
+| **Reviewer's Certificate** — Computer Applications in Engineering Education | Wiley | Mar 2025 |
+| **IEEE INDICON 2024** — Paper Presentation | IIT Kharagpur | Jan 2025 |
 
 </div>
 
