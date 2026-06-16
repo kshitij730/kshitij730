@@ -1,6 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Kshitij%20Sharma&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20MLOps%20%7C%20Cloud%20%26%20DevOps&descAlignY=55&descSize=20"/>
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="50%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="#38BDF8" opacity="0.15"/>
+  <path d="M0,175 C200,130 400,170 600,150 C750,135 850,160 900,155 L900,200 L0,200 Z" fill="#38BDF8" opacity="0.08"/>
+  <text x="450" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Kshitij Sharma</text>
+  <text x="450" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#38BDF8" text-anchor="middle" letter-spacing="1">AI Engineer · MLOps · Cloud &amp; DevOps</text>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+MLOps+Engineer+%F0%9F%A4%96;Building+Production+AI+Systems+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+NLP+%F0%9F%A7%A0;Cloud+Native+%7C+DevOps+%7C+CI%2FCD+%E2%9A%99%EF%B8%8F;6x+Published+IEEE+%2F+Springer+%2F+CRC+Researcher+%F0%9F%93%84" alt="Typing SVG" />
 
